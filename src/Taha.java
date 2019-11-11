@@ -7,6 +7,7 @@ public class Taha {
         int number1 = input.nextInt();
         System.out.println("please enter your second number");
         int number2 = input.nextInt();
-
+        System.out.println("What kind of operation you want to do");
+        String str = input.nextLine();
     }
 }
